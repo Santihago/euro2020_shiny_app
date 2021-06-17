@@ -7,7 +7,7 @@ ui <- fluidPage(
     
     # App title ----
     titlePanel("EURO 2020"),
-
+    
     # Sidebar layout with input and output definitions ----
     sidebarLayout(
         
@@ -38,26 +38,23 @@ ui <- fluidPage(
                       accept = c("text/csv",
                                  "text/comma-separated-values,text/plain",
                                  ".csv"))
-            
         ),
-        
         # Main panel for displaying outputs ----
         mainPanel(
             h3('Classement général'),
             p('Si aucun nouveau fichier n\'a été selectionné à gauche, le tableau
-            montre les derniers résultats disponibles (maj: mer 16/6, 23h).'),
-            # Output: Data file ----
-            DT::dataTableOutput("table"),
+            montre les derniers résultats disponibles (maj: jeu 17/6, 23h).'),
             # Button
-            downloadButton("downloadData", "Télécharger le classement général")
-            
+            downloadButton("downloadData", "Télécharger le classement général"),
+            # Output: Data file ----
+            DT::dataTableOutput("table")
         )
     )
 )
 
 server <- function(input, output) {
     
-    
+    # Create a reactive data table using input ----
     dataframe <- reactive({
         if (is.null(input$datafile))
             #return(NULL)
@@ -102,36 +99,20 @@ server <- function(input, output) {
         final_table
     })
     
-    
+    # Render the data table ----
     output$table <- renderDataTable({
         dataframe()}, options = list(lengthMenu = list(c(10, -1), c('10', '45')),
-                                     pageLength = 10))
-    
-    # Downloadable csv classification table ----
-    # output$downloadData <- downloadHandler(
-    #     filename = function() {
-    #         paste('final_table', ".csv", sep = ",")
-    #     },
-    #     content = function(file) {
-    #         write.csv(dataframe(), file, row.names = FALSE)
-    #     }
-    # )
+                                     pageLength = 45))
+    # Download Button ----
     output$downloadData <- downloadHandler(
         filename = function() {'classement.xlsx'},
         content = function(file) {
             write_xlsx(dataframe(), path=file,  col_names = TRUE, format_headers = TRUE)
         }
     )
-    
 }
-
-#output$plot <- renderPlot({
-#    if(!is.null(dataframe()))
-#        ggplot(dataframe(),aes(x=X,y=add))+geom_point()
-#})
-
 
 shinyApp(ui, server)
 
 #library(rsconnect)
-#rsconnect::deployApp('D:\\Dropbox\\MyCode\\foot\\euro2020')
+#rsconnect::deployApp('D:\\Dropbox\\MyCode\\euro2020_shiny_app')

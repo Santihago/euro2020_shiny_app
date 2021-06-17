@@ -1,0 +1,1621 @@
+sheet,team1,prono1,prono2,team2
+AL,Turquie,1,2,Italie
+AL,Pays de Galles,1,1,Suisse
+AL,Danemark,1,1,Finlande
+AL,Belgique,2,1,Russie
+AL,Angleterre,3,3,Croatie
+AL,Autriche,3,0,Macédoine
+AL,Pays-Bas,2,1,Ukraine
+AL,Ecosse,2,1,Rép. Tchèque
+AL,Pologne,1,1,Slovaquie
+AL,Espagne,3,2,Suède
+AL,Hongrie,1,2,Portugal
+AL,France,3,2,Allemagne
+AL,Finlande,2,2,Russie
+AL,Turquie,1,3,Pays de Galles
+AL,Italie,1,0,Suisse
+AL,Ukraine,4,1,Macédoine
+AL,Danemark,1,3,Belgique
+AL,Pays-Bas,2,0,Autriche
+AL,Suède,4,1,Slovaquie
+AL,Croatie,2,0,Rép. Tchèque
+AL,Angleterre,2,1,Ecosse
+AL,Hongrie,1,5,France
+AL,Portugal,3,3,Allemagne
+AL,Espagne,1,0,Pologne
+AL,Suisse,1,1,Turquie
+AL,Italie,2,2,Pays de Galles
+AL,Ukraine,2,2,Autriche
+AL,Macédoine,0,3,Pays-Bas
+AL,Finlande,0,2,Belgique
+AL,Russie,1,2,Danemark
+AL,Croatie,3,1,Ecosse
+AL,Rép. Tchèque,1,2,Angleterre
+AL,Suède,2,0,Pologne
+AL,Slovaquie,0,2,Espagne
+AL,Portugal,2,2,France
+AL,Allemagne,3,0,Hongrie
+Alex,Turquie,0,1,Italie
+Alex,Pays de Galles,0,1,Suisse
+Alex,Danemark,3,1,Finlande
+Alex,Belgique,2,1,Russie
+Alex,Angleterre,2,0,Croatie
+Alex,Autriche,1,0,Macédoine
+Alex,Pays-Bas,2,0,Ukraine
+Alex,Ecosse,2,2,Rép. Tchèque
+Alex,Pologne,0,1,Slovaquie
+Alex,Espagne,1,1,Suède
+Alex,Hongrie,0,2,Portugal
+Alex,France,0,0,Allemagne
+Alex,Finlande,1,3,Russie
+Alex,Turquie,2,1,Pays de Galles
+Alex,Italie,3,1,Suisse
+Alex,Ukraine,2,1,Macédoine
+Alex,Danemark,1,2,Belgique
+Alex,Pays-Bas,3,1,Autriche
+Alex,Suède,1,0,Slovaquie
+Alex,Croatie,2,0,Rép. Tchèque
+Alex,Angleterre,3,0,Ecosse
+Alex,Hongrie,1,2,France
+Alex,Portugal,2,2,Allemagne
+Alex,Espagne,2,0,Pologne
+Alex,Suisse,1,1,Turquie
+Alex,Italie,2,0,Pays de Galles
+Alex,Ukraine,0,0,Autriche
+Alex,Macédoine,0,4,Pays-Bas
+Alex,Finlande,0,1,Belgique
+Alex,Russie,1,1,Danemark
+Alex,Croatie,2,0,Ecosse
+Alex,Rép. Tchèque,1,3,Angleterre
+Alex,Suède,0,0,Pologne
+Alex,Slovaquie,1,3,Espagne
+Alex,Portugal,2,2,France
+Alex,Allemagne,4,0,Hongrie
+Ann,Turquie,1,2,Italie
+Ann,Pays de Galles,0,0,Suisse
+Ann,Danemark,2,0,Finlande
+Ann,Belgique,2,1,Russie
+Ann,Angleterre,1,1,Croatie
+Ann,Autriche,2,0,Macédoine
+Ann,Pays-Bas,2,0,Ukraine
+Ann,Ecosse,1,2,Rép. Tchèque
+Ann,Pologne,0,0,Slovaquie
+Ann,Espagne,2,1,Suède
+Ann,Hongrie,0,3,Portugal
+Ann,France,2,2,Allemagne
+Ann,Finlande,0,0,Russie
+Ann,Turquie,0,2,Pays de Galles
+Ann,Italie,2,0,Suisse
+Ann,Ukraine,1,0,Macédoine
+Ann,Danemark,0,2,Belgique
+Ann,Pays-Bas,1,0,Autriche
+Ann,Suède,0,0,Slovaquie
+Ann,Croatie,1,1,Rép. Tchèque
+Ann,Angleterre,3,1,Ecosse
+Ann,Hongrie,0,3,France
+Ann,Portugal,1,1,Allemagne
+Ann,Espagne,2,0,Pologne
+Ann,Suisse,1,0,Turquie
+Ann,Italie,2,0,Pays de Galles
+Ann,Ukraine,0,1,Autriche
+Ann,Macédoine,0,4,Pays-Bas
+Ann,Finlande,0,3,Belgique
+Ann,Russie,1,2,Danemark
+Ann,Croatie,1,1,Ecosse
+Ann,Rép. Tchèque,0,0,Angleterre
+Ann,Suède,1,1,Pologne
+Ann,Slovaquie,0,1,Espagne
+Ann,Portugal,2,1,France
+Ann,Allemagne,2,0,Hongrie
+Ben,Turquie,0,2,Italie
+Ben,Pays de Galles,1,2,Suisse
+Ben,Danemark,2,0,Finlande
+Ben,Belgique,3,0,Russie
+Ben,Angleterre,3,1,Croatie
+Ben,Autriche,2,0,Macédoine
+Ben,Pays-Bas,3,1,Ukraine
+Ben,Ecosse,1,1,Rép. Tchèque
+Ben,Pologne,2,1,Slovaquie
+Ben,Espagne,3,1,Suède
+Ben,Hongrie,0,2,Portugal
+Ben,France,1,1,Allemagne
+Ben,Finlande,1,2,Russie
+Ben,Turquie,1,1,Pays de Galles
+Ben,Italie,2,0,Suisse
+Ben,Ukraine,3,0,Macédoine
+Ben,Danemark,1,4,Belgique
+Ben,Pays-Bas,2,0,Autriche
+Ben,Suède,2,1,Slovaquie
+Ben,Croatie,2,2,Rép. Tchèque
+Ben,Angleterre,3,1,Ecosse
+Ben,Hongrie,0,3,France
+Ben,Portugal,2,2,Allemagne
+Ben,Espagne,2,1,Pologne
+Ben,Suisse,1,2,Turquie
+Ben,Italie,2,1,Pays de Galles
+Ben,Ukraine,2,0,Autriche
+Ben,Macédoine,0,5,Pays-Bas
+Ben,Finlande,0,3,Belgique
+Ben,Russie,1,2,Danemark
+Ben,Croatie,2,1,Ecosse
+Ben,Rép. Tchèque,1,3,Angleterre
+Ben,Suède,1,2,Pologne
+Ben,Slovaquie,1,3,Espagne
+Ben,Portugal,1,2,France
+Ben,Allemagne,3,1,Hongrie
+Christophe,Turquie,1,1,Italie
+Christophe,Pays de Galles,1,2,Suisse
+Christophe,Danemark,2,0,Finlande
+Christophe,Belgique,1,0,Russie
+Christophe,Angleterre,1,1,Croatie
+Christophe,Autriche,2,1,Macédoine
+Christophe,Pays-Bas,3,1,Ukraine
+Christophe,Ecosse,2,2,Rép. Tchèque
+Christophe,Pologne,2,1,Slovaquie
+Christophe,Espagne,3,0,Suède
+Christophe,Hongrie,0,2,Portugal
+Christophe,France,2,1,Allemagne
+Christophe,Finlande,1,3,Russie
+Christophe,Turquie,0,0,Pays de Galles
+Christophe,Italie,2,1,Suisse
+Christophe,Ukraine,3,1,Macédoine
+Christophe,Danemark,1,2,Belgique
+Christophe,Pays-Bas,1,0,Autriche
+Christophe,Suède,1,1,Slovaquie
+Christophe,Croatie,2,2,Rép. Tchèque
+Christophe,Angleterre,2,1,Ecosse
+Christophe,Hongrie,0,3,France
+Christophe,Portugal,2,2,Allemagne
+Christophe,Espagne,2,1,Pologne
+Christophe,Suisse,1,1,Turquie
+Christophe,Italie,2,0,Pays de Galles
+Christophe,Ukraine,2,2,Autriche
+Christophe,Macédoine,0,4,Pays-Bas
+Christophe,Finlande,0,3,Belgique
+Christophe,Russie,0,2,Danemark
+Christophe,Croatie,2,0,Ecosse
+Christophe,Rép. Tchèque,0,1,Angleterre
+Christophe,Suède,0,1,Pologne
+Christophe,Slovaquie,1,2,Espagne
+Christophe,Portugal,2,2,France
+Christophe,Allemagne,2,0,Hongrie
+Clémentine,Turquie,0,3,Italie
+Clémentine,Pays de Galles,1,1,Suisse
+Clémentine,Danemark,1,0,Finlande
+Clémentine,Belgique,2,0,Russie
+Clémentine,Angleterre,2,1,Croatie
+Clémentine,Autriche,4,0,Macédoine
+Clémentine,Pays-Bas,2,1,Ukraine
+Clémentine,Ecosse,0,1,Rép. Tchèque
+Clémentine,Pologne,3,0,Slovaquie
+Clémentine,Espagne,3,1,Suède
+Clémentine,Hongrie,0,5,Portugal
+Clémentine,France,0,0,Allemagne
+Clémentine,Finlande,0,1,Russie
+Clémentine,Turquie,1,1,Pays de Galles
+Clémentine,Italie,2,0,Suisse
+Clémentine,Ukraine,1,0,Macédoine
+Clémentine,Danemark,1,3,Belgique
+Clémentine,Pays-Bas,1,0,Autriche
+Clémentine,Suède,1,1,Slovaquie
+Clémentine,Croatie,2,2,Rép. Tchèque
+Clémentine,Angleterre,2,0,Ecosse
+Clémentine,Hongrie,0,3,France
+Clémentine,Portugal,2,1,Allemagne
+Clémentine,Espagne,1,0,Pologne
+Clémentine,Suisse,0,0,Turquie
+Clémentine,Italie,2,0,Pays de Galles
+Clémentine,Ukraine,2,2,Autriche
+Clémentine,Macédoine,0,3,Pays-Bas
+Clémentine,Finlande,0,5,Belgique
+Clémentine,Russie,0,3,Danemark
+Clémentine,Croatie,2,1,Ecosse
+Clémentine,Rép. Tchèque,2,6,Angleterre
+Clémentine,Suède,0,3,Pologne
+Clémentine,Slovaquie,0,2,Espagne
+Clémentine,Portugal,3,3,France
+Clémentine,Allemagne,3,0,Hongrie
+Clo,Turquie,0,2,Italie
+Clo,Pays de Galles,1,1,Suisse
+Clo,Danemark,1,0,Finlande
+Clo,Belgique,2,0,Russie
+Clo,Angleterre,0,0,Croatie
+Clo,Autriche,1,1,Macédoine
+Clo,Pays-Bas,1,2,Ukraine
+Clo,Ecosse,1,1,Rép. Tchèque
+Clo,Pologne,0,0,Slovaquie
+Clo,Espagne,1,0,Suède
+Clo,Hongrie,0,1,Portugal
+Clo,France,0,0,Allemagne
+Clo,Finlande,1,1,Russie
+Clo,Turquie,3,1,Pays de Galles
+Clo,Italie,4,0,Suisse
+Clo,Ukraine,1,1,Macédoine
+Clo,Danemark,1,2,Belgique
+Clo,Pays-Bas,0,0,Autriche
+Clo,Suède,1,0,Slovaquie
+Clo,Croatie,1,2,Rép. Tchèque
+Clo,Angleterre,1,1,Ecosse
+Clo,Hongrie,1,0,France
+Clo,Portugal,1,1,Allemagne
+Clo,Espagne,0,0,Pologne
+Clo,Suisse,2,0,Turquie
+Clo,Italie,0,0,Pays de Galles
+Clo,Ukraine,0,0,Autriche
+Clo,Macédoine,1,1,Pays-Bas
+Clo,Finlande,0,2,Belgique
+Clo,Russie,1,2,Danemark
+Clo,Croatie,0,1,Ecosse
+Clo,Rép. Tchèque,1,1,Angleterre
+Clo,Suède,2,2,Pologne
+Clo,Slovaquie,0,0,Espagne
+Clo,Portugal,2,1,France
+Clo,Allemagne,2,1,Hongrie
+Coralie,Turquie,0,2,Italie
+Coralie,Pays de Galles,1,2,Suisse
+Coralie,Danemark,2,1,Finlande
+Coralie,Belgique,3,1,Russie
+Coralie,Angleterre,2,2,Croatie
+Coralie,Autriche,1,0,Macédoine
+Coralie,Pays-Bas,1,1,Ukraine
+Coralie,Ecosse,1,0,Rép. Tchèque
+Coralie,Pologne,1,1,Slovaquie
+Coralie,Espagne,3,1,Suède
+Coralie,Hongrie,1,0,Portugal
+Coralie,France,1,2,Allemagne
+Coralie,Finlande,1,0,Russie
+Coralie,Turquie,1,1,Pays de Galles
+Coralie,Italie,1,1,Suisse
+Coralie,Ukraine,1,0,Macédoine
+Coralie,Danemark,0,1,Belgique
+Coralie,Pays-Bas,0,1,Autriche
+Coralie,Suède,1,1,Slovaquie
+Coralie,Croatie,1,1,Rép. Tchèque
+Coralie,Angleterre,1,1,Ecosse
+Coralie,Hongrie,0,2,France
+Coralie,Portugal,1,2,Allemagne
+Coralie,Espagne,2,1,Pologne
+Coralie,Suisse,1,0,Turquie
+Coralie,Italie,2,1,Pays de Galles
+Coralie,Ukraine,1,3,Autriche
+Coralie,Macédoine,0,2,Pays-Bas
+Coralie,Finlande,1,2,Belgique
+Coralie,Russie,2,2,Danemark
+Coralie,Croatie,2,1,Ecosse
+Coralie,Rép. Tchèque,1,3,Angleterre
+Coralie,Suède,1,0,Pologne
+Coralie,Slovaquie,1,2,Espagne
+Coralie,Portugal,0,3,France
+Coralie,Allemagne,2,1,Hongrie
+Déléphine,Turquie,1,2,Italie
+Déléphine,Pays de Galles,1,3,Suisse
+Déléphine,Danemark,2,0,Finlande
+Déléphine,Belgique,2,1,Russie
+Déléphine,Angleterre,2,2,Croatie
+Déléphine,Autriche,1,1,Macédoine
+Déléphine,Pays-Bas,2,0,Ukraine
+Déléphine,Ecosse,0,1,Rép. Tchèque
+Déléphine,Pologne,2,0,Slovaquie
+Déléphine,Espagne,3,1,Suède
+Déléphine,Hongrie,0,2,Portugal
+Déléphine,France,2,2,Allemagne
+Déléphine,Finlande,0,2,Russie
+Déléphine,Turquie,3,1,Pays de Galles
+Déléphine,Italie,1,2,Suisse
+Déléphine,Ukraine,2,0,Macédoine
+Déléphine,Danemark,1,2,Belgique
+Déléphine,Pays-Bas,2,0,Autriche
+Déléphine,Suède,0,0,Slovaquie
+Déléphine,Croatie,2,0,Rép. Tchèque
+Déléphine,Angleterre,3,0,Ecosse
+Déléphine,Hongrie,0,3,France
+Déléphine,Portugal,1,2,Allemagne
+Déléphine,Espagne,2,2,Pologne
+Déléphine,Suisse,2,1,Turquie
+Déléphine,Italie,2,0,Pays de Galles
+Déléphine,Ukraine,2,1,Autriche
+Déléphine,Macédoine,0,3,Pays-Bas
+Déléphine,Finlande,0,3,Belgique
+Déléphine,Russie,2,2,Danemark
+Déléphine,Croatie,2,0,Ecosse
+Déléphine,Rép. Tchèque,0,2,Angleterre
+Déléphine,Suède,1,2,Pologne
+Déléphine,Slovaquie,0,3,Espagne
+Déléphine,Portugal,1,2,France
+Déléphine,Allemagne,3,1,Hongrie
+Diego,Turquie,1,2,Italie
+Diego,Pays de Galles,1,1,Suisse
+Diego,Danemark,2,0,Finlande
+Diego,Belgique,2,1,Russie
+Diego,Angleterre,2,1,Croatie
+Diego,Autriche,3,1,Macédoine
+Diego,Pays-Bas,1,1,Ukraine
+Diego,Ecosse,1,1,Rép. Tchèque
+Diego,Pologne,1,0,Slovaquie
+Diego,Espagne,2,1,Suède
+Diego,Hongrie,0,2,Portugal
+Diego,France,2,1,Allemagne
+Diego,Finlande,0,1,Russie
+Diego,Turquie,1,0,Pays de Galles
+Diego,Italie,2,1,Suisse
+Diego,Ukraine,2,0,Macédoine
+Diego,Danemark,1,2,Belgique
+Diego,Pays-Bas,2,0,Autriche
+Diego,Suède,2,0,Slovaquie
+Diego,Croatie,2,1,Rép. Tchèque
+Diego,Angleterre,2,0,Ecosse
+Diego,Hongrie,0,2,France
+Diego,Portugal,0,1,Allemagne
+Diego,Espagne,2,0,Pologne
+Diego,Suisse,1,1,Turquie
+Diego,Italie,2,0,Pays de Galles
+Diego,Ukraine,2,1,Autriche
+Diego,Macédoine,0,3,Pays-Bas
+Diego,Finlande,0,2,Belgique
+Diego,Russie,1,1,Danemark
+Diego,Croatie,1,1,Ecosse
+Diego,Rép. Tchèque,1,2,Angleterre
+Diego,Suède,1,1,Pologne
+Diego,Slovaquie,0,3,Espagne
+Diego,Portugal,1,2,France
+Diego,Allemagne,2,0,Hongrie
+Edward,Turquie,2,1,Italie
+Edward,Pays de Galles,2,3,Suisse
+Edward,Danemark,0,1,Finlande
+Edward,Belgique,3,1,Russie
+Edward,Angleterre,2,1,Croatie
+Edward,Autriche,1,0,Macédoine
+Edward,Pays-Bas,1,2,Ukraine
+Edward,Ecosse,0,1,Rép. Tchèque
+Edward,Pologne,2,3,Slovaquie
+Edward,Espagne,1,2,Suède
+Edward,Hongrie,0,2,Portugal
+Edward,France,2,3,Allemagne
+Edward,Finlande,0,1,Russie
+Edward,Turquie,3,2,Pays de Galles
+Edward,Italie,0,2,Suisse
+Edward,Ukraine,1,2,Macédoine
+Edward,Danemark,1,3,Belgique
+Edward,Pays-Bas,0,1,Autriche
+Edward,Suède,0,1,Slovaquie
+Edward,Croatie,2,2,Rép. Tchèque
+Edward,Angleterre,3,2,Ecosse
+Edward,Hongrie,2,1,France
+Edward,Portugal,1,1,Allemagne
+Edward,Espagne,2,1,Pologne
+Edward,Suisse,0,1,Turquie
+Edward,Italie,2,3,Pays de Galles
+Edward,Ukraine,2,1,Autriche
+Edward,Macédoine,3,2,Pays-Bas
+Edward,Finlande,0,2,Belgique
+Edward,Russie,1,2,Danemark
+Edward,Croatie,0,3,Ecosse
+Edward,Rép. Tchèque,1,0,Angleterre
+Edward,Suède,2,1,Pologne
+Edward,Slovaquie,3,2,Espagne
+Edward,Portugal,3,1,France
+Edward,Allemagne,0,2,Hongrie
+Geo,Turquie,0,2,Italie
+Geo,Pays de Galles,1,2,Suisse
+Geo,Danemark,1,1,Finlande
+Geo,Belgique,2,1,Russie
+Geo,Angleterre,3,0,Croatie
+Geo,Autriche,1,0,Macédoine
+Geo,Pays-Bas,1,0,Ukraine
+Geo,Ecosse,1,1,Rép. Tchèque
+Geo,Pologne,1,0,Slovaquie
+Geo,Espagne,3,1,Suède
+Geo,Hongrie,1,3,Portugal
+Geo,France,0,1,Allemagne
+Geo,Finlande,1,2,Russie
+Geo,Turquie,1,1,Pays de Galles
+Geo,Italie,1,1,Suisse
+Geo,Ukraine,1,0,Macédoine
+Geo,Danemark,1,2,Belgique
+Geo,Pays-Bas,1,1,Autriche
+Geo,Suède,2,0,Slovaquie
+Geo,Croatie,0,1,Rép. Tchèque
+Geo,Angleterre,2,0,Ecosse
+Geo,Hongrie,1,2,France
+Geo,Portugal,1,2,Allemagne
+Geo,Espagne,2,1,Pologne
+Geo,Suisse,1,0,Turquie
+Geo,Italie,1,0,Pays de Galles
+Geo,Ukraine,0,0,Autriche
+Geo,Macédoine,0,2,Pays-Bas
+Geo,Finlande,1,3,Belgique
+Geo,Russie,1,2,Danemark
+Geo,Croatie,1,1,Ecosse
+Geo,Rép. Tchèque,1,2,Angleterre
+Geo,Suède,1,1,Pologne
+Geo,Slovaquie,0,2,Espagne
+Geo,Portugal,2,2,France
+Geo,Allemagne,2,0,Hongrie
+Gill,Turquie,0,1,Italie
+Gill,Pays de Galles,1,2,Suisse
+Gill,Danemark,3,0,Finlande
+Gill,Belgique,2,0,Russie
+Gill,Angleterre,3,1,Croatie
+Gill,Autriche,5,3,Macédoine
+Gill,Pays-Bas,3,1,Ukraine
+Gill,Ecosse,1,1,Rép. Tchèque
+Gill,Pologne,2,0,Slovaquie
+Gill,Espagne,5,2,Suède
+Gill,Hongrie,0,3,Portugal
+Gill,France,1,1,Allemagne
+Gill,Finlande,1,2,Russie
+Gill,Turquie,0,0,Pays de Galles
+Gill,Italie,3,0,Suisse
+Gill,Ukraine,2,0,Macédoine
+Gill,Danemark,1,4,Belgique
+Gill,Pays-Bas,3,1,Autriche
+Gill,Suède,1,0,Slovaquie
+Gill,Croatie,2,0,Rép. Tchèque
+Gill,Angleterre,4,1,Ecosse
+Gill,Hongrie,0,3,France
+Gill,Portugal,0,0,Allemagne
+Gill,Espagne,4,1,Pologne
+Gill,Suisse,1,1,Turquie
+Gill,Italie,3,2,Pays de Galles
+Gill,Ukraine,2,1,Autriche
+Gill,Macédoine,0,9,Pays-Bas
+Gill,Finlande,1,6,Belgique
+Gill,Russie,0,1,Danemark
+Gill,Croatie,3,2,Ecosse
+Gill,Rép. Tchèque,1,4,Angleterre
+Gill,Suède,1,1,Pologne
+Gill,Slovaquie,2,7,Espagne
+Gill,Portugal,2,1,France
+Gill,Allemagne,7,1,Hongrie
+Jack,Turquie,1,1,Italie
+Jack,Pays de Galles,4,1,Suisse
+Jack,Danemark,3,2,Finlande
+Jack,Belgique,3,1,Russie
+Jack,Angleterre,2,0,Croatie
+Jack,Autriche,2,0,Macédoine
+Jack,Pays-Bas,4,1,Ukraine
+Jack,Ecosse,1,1,Rép. Tchèque
+Jack,Pologne,3,1,Slovaquie
+Jack,Espagne,4,1,Suède
+Jack,Hongrie,0,2,Portugal
+Jack,France,1,1,Allemagne
+Jack,Finlande,0,3,Russie
+Jack,Turquie,2,1,Pays de Galles
+Jack,Italie,2,0,Suisse
+Jack,Ukraine,0,1,Macédoine
+Jack,Danemark,1,3,Belgique
+Jack,Pays-Bas,1,1,Autriche
+Jack,Suède,2,0,Slovaquie
+Jack,Croatie,1,0,Rép. Tchèque
+Jack,Angleterre,1,0,Ecosse
+Jack,Hongrie,1,2,France
+Jack,Portugal,0,2,Allemagne
+Jack,Espagne,2,0,Pologne
+Jack,Suisse,0,2,Turquie
+Jack,Italie,1,0,Pays de Galles
+Jack,Ukraine,1,1,Autriche
+Jack,Macédoine,1,3,Pays-Bas
+Jack,Finlande,1,3,Belgique
+Jack,Russie,2,2,Danemark
+Jack,Croatie,1,1,Ecosse
+Jack,Rép. Tchèque,1,1,Angleterre
+Jack,Suède,2,0,Pologne
+Jack,Slovaquie,0,2,Espagne
+Jack,Portugal,1,2,France
+Jack,Allemagne,2,1,Hongrie
+Jean-Pierre,Turquie,0,2,Italie
+Jean-Pierre,Pays de Galles,1,2,Suisse
+Jean-Pierre,Danemark,2,1,Finlande
+Jean-Pierre,Belgique,2,0,Russie
+Jean-Pierre,Angleterre,0,0,Croatie
+Jean-Pierre,Autriche,2,0,Macédoine
+Jean-Pierre,Pays-Bas,3,0,Ukraine
+Jean-Pierre,Ecosse,1,1,Rép. Tchèque
+Jean-Pierre,Pologne,2,1,Slovaquie
+Jean-Pierre,Espagne,2,0,Suède
+Jean-Pierre,Hongrie,0,2,Portugal
+Jean-Pierre,France,0,0,Allemagne
+Jean-Pierre,Finlande,0,1,Russie
+Jean-Pierre,Turquie,2,2,Pays de Galles
+Jean-Pierre,Italie,3,1,Suisse
+Jean-Pierre,Ukraine,3,0,Macédoine
+Jean-Pierre,Danemark,1,3,Belgique
+Jean-Pierre,Pays-Bas,2,0,Autriche
+Jean-Pierre,Suède,0,1,Slovaquie
+Jean-Pierre,Croatie,0,0,Rép. Tchèque
+Jean-Pierre,Angleterre,4,1,Ecosse
+Jean-Pierre,Hongrie,0,4,France
+Jean-Pierre,Portugal,2,2,Allemagne
+Jean-Pierre,Espagne,1,2,Pologne
+Jean-Pierre,Suisse,1,1,Turquie
+Jean-Pierre,Italie,2,0,Pays de Galles
+Jean-Pierre,Ukraine,1,1,Autriche
+Jean-Pierre,Macédoine,0,5,Pays-Bas
+Jean-Pierre,Finlande,1,4,Belgique
+Jean-Pierre,Russie,3,3,Danemark
+Jean-Pierre,Croatie,2,1,Ecosse
+Jean-Pierre,Rép. Tchèque,1,3,Angleterre
+Jean-Pierre,Suède,0,3,Pologne
+Jean-Pierre,Slovaquie,1,4,Espagne
+Jean-Pierre,Portugal,1,2,France
+Jean-Pierre,Allemagne,4,0,Hongrie
+Jérôme,Turquie,2,2,Italie
+Jérôme,Pays de Galles,1,0,Suisse
+Jérôme,Danemark,1,0,Finlande
+Jérôme,Belgique,3,1,Russie
+Jérôme,Angleterre,2,0,Croatie
+Jérôme,Autriche,3,0,Macédoine
+Jérôme,Pays-Bas,1,1,Ukraine
+Jérôme,Ecosse,0,0,Rép. Tchèque
+Jérôme,Pologne,2,0,Slovaquie
+Jérôme,Espagne,2,1,Suède
+Jérôme,Hongrie,0,1,Portugal
+Jérôme,France,0,0,Allemagne
+Jérôme,Finlande,1,1,Russie
+Jérôme,Turquie,0,2,Pays de Galles
+Jérôme,Italie,3,2,Suisse
+Jérôme,Ukraine,2,0,Macédoine
+Jérôme,Danemark,1,3,Belgique
+Jérôme,Pays-Bas,1,2,Autriche
+Jérôme,Suède,2,0,Slovaquie
+Jérôme,Croatie,3,1,Rép. Tchèque
+Jérôme,Angleterre,2,0,Ecosse
+Jérôme,Hongrie,1,1,France
+Jérôme,Portugal,2,1,Allemagne
+Jérôme,Espagne,2,1,Pologne
+Jérôme,Suisse,1,1,Turquie
+Jérôme,Italie,2,2,Pays de Galles
+Jérôme,Ukraine,2,1,Autriche
+Jérôme,Macédoine,1,3,Pays-Bas
+Jérôme,Finlande,0,4,Belgique
+Jérôme,Russie,2,2,Danemark
+Jérôme,Croatie,2,1,Ecosse
+Jérôme,Rép. Tchèque,0,1,Angleterre
+Jérôme,Suède,2,3,Pologne
+Jérôme,Slovaquie,1,3,Espagne
+Jérôme,Portugal,2,2,France
+Jérôme,Allemagne,2,0,Hongrie
+Julian,Turquie,1,2,Italie
+Julian,Pays de Galles,1,1,Suisse
+Julian,Danemark,1,0,Finlande
+Julian,Belgique,3,1,Russie
+Julian,Angleterre,2,0,Croatie
+Julian,Autriche,1,1,Macédoine
+Julian,Pays-Bas,2,2,Ukraine
+Julian,Ecosse,0,1,Rép. Tchèque
+Julian,Pologne,1,0,Slovaquie
+Julian,Espagne,2,0,Suède
+Julian,Hongrie,0,1,Portugal
+Julian,France,1,1,Allemagne
+Julian,Finlande,0,2,Russie
+Julian,Turquie,1,0,Pays de Galles
+Julian,Italie,2,0,Suisse
+Julian,Ukraine,2,1,Macédoine
+Julian,Danemark,1,2,Belgique
+Julian,Pays-Bas,2,0,Autriche
+Julian,Suède,0,1,Slovaquie
+Julian,Croatie,1,0,Rép. Tchèque
+Julian,Angleterre,2,0,Ecosse
+Julian,Hongrie,0,2,France
+Julian,Portugal,1,3,Allemagne
+Julian,Espagne,2,0,Pologne
+Julian,Suisse,1,1,Turquie
+Julian,Italie,2,1,Pays de Galles
+Julian,Ukraine,1,0,Autriche
+Julian,Macédoine,0,2,Pays-Bas
+Julian,Finlande,0,6,Belgique
+Julian,Russie,1,0,Danemark
+Julian,Croatie,2,0,Ecosse
+Julian,Rép. Tchèque,0,2,Angleterre
+Julian,Suède,0,0,Pologne
+Julian,Slovaquie,0,2,Espagne
+Julian,Portugal,0,2,France
+Julian,Allemagne,4,0,Hongrie
+Julien,Turquie,1,2,Italie
+Julien,Pays de Galles,1,1,Suisse
+Julien,Danemark,1,0,Finlande
+Julien,Belgique,2,0,Russie
+Julien,Angleterre,1,0,Croatie
+Julien,Autriche,0,0,Macédoine
+Julien,Pays-Bas,2,2,Ukraine
+Julien,Ecosse,0,2,Rép. Tchèque
+Julien,Pologne,1,0,Slovaquie
+Julien,Espagne,3,0,Suède
+Julien,Hongrie,0,2,Portugal
+Julien,France,3,2,Allemagne
+Julien,Finlande,0,2,Russie
+Julien,Turquie,2,0,Pays de Galles
+Julien,Italie,3,0,Suisse
+Julien,Ukraine,2,0,Macédoine
+Julien,Danemark,1,3,Belgique
+Julien,Pays-Bas,1,1,Autriche
+Julien,Suède,0,0,Slovaquie
+Julien,Croatie,0,1,Rép. Tchèque
+Julien,Angleterre,2,1,Ecosse
+Julien,Hongrie,0,4,France
+Julien,Portugal,1,0,Allemagne
+Julien,Espagne,2,1,Pologne
+Julien,Suisse,0,1,Turquie
+Julien,Italie,2,0,Pays de Galles
+Julien,Ukraine,1,0,Autriche
+Julien,Macédoine,0,3,Pays-Bas
+Julien,Finlande,0,4,Belgique
+Julien,Russie,1,1,Danemark
+Julien,Croatie,0,0,Ecosse
+Julien,Rép. Tchèque,1,0,Angleterre
+Julien,Suède,1,1,Pologne
+Julien,Slovaquie,0,2,Espagne
+Julien,Portugal,1,2,France
+Julien,Allemagne,3,0,Hongrie
+Krys,Turquie,0,2,Italie
+Krys,Pays de Galles,0,1,Suisse
+Krys,Danemark,2,0,Finlande
+Krys,Belgique,3,1,Russie
+Krys,Angleterre,2,1,Croatie
+Krys,Autriche,1,1,Macédoine
+Krys,Pays-Bas,2,0,Ukraine
+Krys,Ecosse,1,1,Rép. Tchèque
+Krys,Pologne,2,0,Slovaquie
+Krys,Espagne,2,1,Suède
+Krys,Hongrie,0,2,Portugal
+Krys,France,1,1,Allemagne
+Krys,Finlande,0,1,Russie
+Krys,Turquie,1,0,Pays de Galles
+Krys,Italie,2,0,Suisse
+Krys,Ukraine,1,0,Macédoine
+Krys,Danemark,0,2,Belgique
+Krys,Pays-Bas,2,0,Autriche
+Krys,Suède,1,0,Slovaquie
+Krys,Croatie,2,1,Rép. Tchèque
+Krys,Angleterre,2,0,Ecosse
+Krys,Hongrie,0,3,France
+Krys,Portugal,1,2,Allemagne
+Krys,Espagne,2,0,Pologne
+Krys,Suisse,3,2,Turquie
+Krys,Italie,1,0,Pays de Galles
+Krys,Ukraine,2,2,Autriche
+Krys,Macédoine,0,4,Pays-Bas
+Krys,Finlande,0,3,Belgique
+Krys,Russie,1,1,Danemark
+Krys,Croatie,1,0,Ecosse
+Krys,Rép. Tchèque,0,2,Angleterre
+Krys,Suède,2,2,Pologne
+Krys,Slovaquie,0,3,Espagne
+Krys,Portugal,1,1,France
+Krys,Allemagne,4,0,Hongrie
+Laetitia,Turquie,1,2,Italie
+Laetitia,Pays de Galles,0,1,Suisse
+Laetitia,Danemark,1,0,Finlande
+Laetitia,Belgique,3,1,Russie
+Laetitia,Angleterre,2,0,Croatie
+Laetitia,Autriche,1,0,Macédoine
+Laetitia,Pays-Bas,3,1,Ukraine
+Laetitia,Ecosse,1,1,Rép. Tchèque
+Laetitia,Pologne,1,1,Slovaquie
+Laetitia,Espagne,2,1,Suède
+Laetitia,Hongrie,0,3,Portugal
+Laetitia,France,2,1,Allemagne
+Laetitia,Finlande,1,1,Russie
+Laetitia,Turquie,0,0,Pays de Galles
+Laetitia,Italie,2,1,Suisse
+Laetitia,Ukraine,2,2,Macédoine
+Laetitia,Danemark,1,3,Belgique
+Laetitia,Pays-Bas,3,1,Autriche
+Laetitia,Suède,1,1,Slovaquie
+Laetitia,Croatie,2,2,Rép. Tchèque
+Laetitia,Angleterre,3,1,Ecosse
+Laetitia,Hongrie,0,3,France
+Laetitia,Portugal,2,1,Allemagne
+Laetitia,Espagne,3,0,Pologne
+Laetitia,Suisse,2,0,Turquie
+Laetitia,Italie,3,1,Pays de Galles
+Laetitia,Ukraine,3,2,Autriche
+Laetitia,Macédoine,0,3,Pays-Bas
+Laetitia,Finlande,0,4,Belgique
+Laetitia,Russie,1,2,Danemark
+Laetitia,Croatie,0,1,Ecosse
+Laetitia,Rép. Tchèque,0,4,Angleterre
+Laetitia,Suède,0,0,Pologne
+Laetitia,Slovaquie,0,5,Espagne
+Laetitia,Portugal,2,2,France
+Laetitia,Allemagne,3,0,Hongrie
+Laurie,Turquie,1,2,Italie
+Laurie,Pays de Galles,2,2,Suisse
+Laurie,Danemark,2,0,Finlande
+Laurie,Belgique,2,1,Russie
+Laurie,Angleterre,2,2,Croatie
+Laurie,Autriche,2,0,Macédoine
+Laurie,Pays-Bas,2,0,Ukraine
+Laurie,Ecosse,1,1,Rép. Tchèque
+Laurie,Pologne,1,1,Slovaquie
+Laurie,Espagne,2,1,Suède
+Laurie,Hongrie,0,2,Portugal
+Laurie,France,2,2,Allemagne
+Laurie,Finlande,1,1,Russie
+Laurie,Turquie,2,0,Pays de Galles
+Laurie,Italie,1,1,Suisse
+Laurie,Ukraine,1,1,Macédoine
+Laurie,Danemark,1,2,Belgique
+Laurie,Pays-Bas,2,1,Autriche
+Laurie,Suède,2,1,Slovaquie
+Laurie,Croatie,2,1,Rép. Tchèque
+Laurie,Angleterre,2,1,Ecosse
+Laurie,Hongrie,1,2,France
+Laurie,Portugal,1,1,Allemagne
+Laurie,Espagne,2,0,Pologne
+Laurie,Suisse,2,2,Turquie
+Laurie,Italie,2,0,Pays de Galles
+Laurie,Ukraine,1,1,Autriche
+Laurie,Macédoine,0,2,Pays-Bas
+Laurie,Finlande,0,2,Belgique
+Laurie,Russie,1,1,Danemark
+Laurie,Croatie,2,1,Ecosse
+Laurie,Rép. Tchèque,0,1,Angleterre
+Laurie,Suède,1,0,Pologne
+Laurie,Slovaquie,0,2,Espagne
+Laurie,Portugal,1,1,France
+Laurie,Allemagne,2,0,Hongrie
+Logan,Turquie,1,1,Italie
+Logan,Pays de Galles,2,2,Suisse
+Logan,Danemark,1,1,Finlande
+Logan,Belgique,2,0,Russie
+Logan,Angleterre,0,0,Croatie
+Logan,Autriche,2,0,Macédoine
+Logan,Pays-Bas,1,0,Ukraine
+Logan,Ecosse,1,2,Rép. Tchèque
+Logan,Pologne,3,0,Slovaquie
+Logan,Espagne,2,1,Suède
+Logan,Hongrie,0,2,Portugal
+Logan,France,1,1,Allemagne
+Logan,Finlande,0,0,Russie
+Logan,Turquie,2,0,Pays de Galles
+Logan,Italie,1,0,Suisse
+Logan,Ukraine,1,0,Macédoine
+Logan,Danemark,0,2,Belgique
+Logan,Pays-Bas,2,1,Autriche
+Logan,Suède,2,0,Slovaquie
+Logan,Croatie,1,0,Rép. Tchèque
+Logan,Angleterre,2,0,Ecosse
+Logan,Hongrie,0,1,France
+Logan,Portugal,1,1,Allemagne
+Logan,Espagne,2,1,Pologne
+Logan,Suisse,1,2,Turquie
+Logan,Italie,1,0,Pays de Galles
+Logan,Ukraine,2,1,Autriche
+Logan,Macédoine,1,3,Pays-Bas
+Logan,Finlande,0,3,Belgique
+Logan,Russie,2,2,Danemark
+Logan,Croatie,2,1,Ecosse
+Logan,Rép. Tchèque,1,1,Angleterre
+Logan,Suède,2,2,Pologne
+Logan,Slovaquie,0,2,Espagne
+Logan,Portugal,1,2,France
+Logan,Allemagne,2,0,Hongrie
+Ludo,Turquie,1,2,Italie
+Ludo,Pays de Galles,1,1,Suisse
+Ludo,Danemark,2,1,Finlande
+Ludo,Belgique,3,1,Russie
+Ludo,Angleterre,2,0,Croatie
+Ludo,Autriche,2,0,Macédoine
+Ludo,Pays-Bas,3,1,Ukraine
+Ludo,Ecosse,1,2,Rép. Tchèque
+Ludo,Pologne,1,1,Slovaquie
+Ludo,Espagne,2,1,Suède
+Ludo,Hongrie,0,2,Portugal
+Ludo,France,1,1,Allemagne
+Ludo,Finlande,1,2,Russie
+Ludo,Turquie,1,1,Pays de Galles
+Ludo,Italie,2,0,Suisse
+Ludo,Ukraine,0,0,Macédoine
+Ludo,Danemark,1,2,Belgique
+Ludo,Pays-Bas,2,1,Autriche
+Ludo,Suède,2,0,Slovaquie
+Ludo,Croatie,1,1,Rép. Tchèque
+Ludo,Angleterre,3,0,Ecosse
+Ludo,Hongrie,1,4,France
+Ludo,Portugal,1,1,Allemagne
+Ludo,Espagne,2,1,Pologne
+Ludo,Suisse,2,2,Turquie
+Ludo,Italie,2,1,Pays de Galles
+Ludo,Ukraine,1,1,Autriche
+Ludo,Macédoine,0,5,Pays-Bas
+Ludo,Finlande,0,3,Belgique
+Ludo,Russie,1,1,Danemark
+Ludo,Croatie,1,1,Ecosse
+Ludo,Rép. Tchèque,0,1,Angleterre
+Ludo,Suède,1,1,Pologne
+Ludo,Slovaquie,1,3,Espagne
+Ludo,Portugal,1,2,France
+Ludo,Allemagne,4,1,Hongrie
+Mamounette,Turquie,1,3,Italie
+Mamounette,Pays de Galles,1,2,Suisse
+Mamounette,Danemark,1,0,Finlande
+Mamounette,Belgique,3,1,Russie
+Mamounette,Angleterre,1,1,Croatie
+Mamounette,Autriche,0,0,Macédoine
+Mamounette,Pays-Bas,3,0,Ukraine
+Mamounette,Ecosse,1,0,Rép. Tchèque
+Mamounette,Pologne,1,1,Slovaquie
+Mamounette,Espagne,2,0,Suède
+Mamounette,Hongrie,0,2,Portugal
+Mamounette,France,2,1,Allemagne
+Mamounette,Finlande,0,0,Russie
+Mamounette,Turquie,0,0,Pays de Galles
+Mamounette,Italie,2,1,Suisse
+Mamounette,Ukraine,1,0,Macédoine
+Mamounette,Danemark,2,3,Belgique
+Mamounette,Pays-Bas,2,1,Autriche
+Mamounette,Suède,1,1,Slovaquie
+Mamounette,Croatie,1,0,Rép. Tchèque
+Mamounette,Angleterre,2,1,Ecosse
+Mamounette,Hongrie,0,2,France
+Mamounette,Portugal,2,1,Allemagne
+Mamounette,Espagne,3,1,Pologne
+Mamounette,Suisse,1,0,Turquie
+Mamounette,Italie,3,0,Pays de Galles
+Mamounette,Ukraine,2,1,Autriche
+Mamounette,Macédoine,0,3,Pays-Bas
+Mamounette,Finlande,0,2,Belgique
+Mamounette,Russie,1,2,Danemark
+Mamounette,Croatie,2,1,Ecosse
+Mamounette,Rép. Tchèque,0,3,Angleterre
+Mamounette,Suède,0,1,Pologne
+Mamounette,Slovaquie,0,2,Espagne
+Mamounette,Portugal,2,2,France
+Mamounette,Allemagne,1,0,Hongrie
+Marc,Turquie,0,1,Italie
+Marc,Pays de Galles,2,2,Suisse
+Marc,Danemark,1,0,Finlande
+Marc,Belgique,3,1,Russie
+Marc,Angleterre,2,0,Croatie
+Marc,Autriche,3,0,Macédoine
+Marc,Pays-Bas,3,1,Ukraine
+Marc,Ecosse,1,1,Rép. Tchèque
+Marc,Pologne,2,0,Slovaquie
+Marc,Espagne,1,0,Suède
+Marc,Hongrie,1,3,Portugal
+Marc,France,2,2,Allemagne
+Marc,Finlande,0,1,Russie
+Marc,Turquie,2,1,Pays de Galles
+Marc,Italie,3,1,Suisse
+Marc,Ukraine,3,0,Macédoine
+Marc,Danemark,0,2,Belgique
+Marc,Pays-Bas,2,0,Autriche
+Marc,Suède,2,0,Slovaquie
+Marc,Croatie,2,2,Rép. Tchèque
+Marc,Angleterre,3,2,Ecosse
+Marc,Hongrie,0,3,France
+Marc,Portugal,1,2,Allemagne
+Marc,Espagne,1,1,Pologne
+Marc,Suisse,2,1,Turquie
+Marc,Italie,2,0,Pays de Galles
+Marc,Ukraine,0,0,Autriche
+Marc,Macédoine,0,4,Pays-Bas
+Marc,Finlande,0,3,Belgique
+Marc,Russie,1,0,Danemark
+Marc,Croatie,1,2,Ecosse
+Marc,Rép. Tchèque,1,3,Angleterre
+Marc,Suède,1,1,Pologne
+Marc,Slovaquie,1,2,Espagne
+Marc,Portugal,1,2,France
+Marc,Allemagne,3,0,Hongrie
+Mathieu,Turquie,1,2,Italie
+Mathieu,Pays de Galles,1,1,Suisse
+Mathieu,Danemark,1,1,Finlande
+Mathieu,Belgique,2,1,Russie
+Mathieu,Angleterre,2,1,Croatie
+Mathieu,Autriche,2,1,Macédoine
+Mathieu,Pays-Bas,1,1,Ukraine
+Mathieu,Ecosse,0,1,Rép. Tchèque
+Mathieu,Pologne,1,0,Slovaquie
+Mathieu,Espagne,2,0,Suède
+Mathieu,Hongrie,0,2,Portugal
+Mathieu,France,1,1,Allemagne
+Mathieu,Finlande,1,2,Russie
+Mathieu,Turquie,1,0,Pays de Galles
+Mathieu,Italie,2,1,Suisse
+Mathieu,Ukraine,1,0,Macédoine
+Mathieu,Danemark,1,2,Belgique
+Mathieu,Pays-Bas,1,1,Autriche
+Mathieu,Suède,1,1,Slovaquie
+Mathieu,Croatie,1,1,Rép. Tchèque
+Mathieu,Angleterre,2,0,Ecosse
+Mathieu,Hongrie,0,3,France
+Mathieu,Portugal,1,1,Allemagne
+Mathieu,Espagne,2,1,Pologne
+Mathieu,Suisse,1,1,Turquie
+Mathieu,Italie,2,1,Pays de Galles
+Mathieu,Ukraine,2,1,Autriche
+Mathieu,Macédoine,1,2,Pays-Bas
+Mathieu,Finlande,1,3,Belgique
+Mathieu,Russie,2,1,Danemark
+Mathieu,Croatie,2,1,Ecosse
+Mathieu,Rép. Tchèque,1,2,Angleterre
+Mathieu,Suède,1,1,Pologne
+Mathieu,Slovaquie,0,3,Espagne
+Mathieu,Portugal,1,2,France
+Mathieu,Allemagne,2,0,Hongrie
+Mo,Turquie,1,2,Italie
+Mo,Pays de Galles,0,1,Suisse
+Mo,Danemark,3,0,Finlande
+Mo,Belgique,1,1,Russie
+Mo,Angleterre,2,1,Croatie
+Mo,Autriche,1,0,Macédoine
+Mo,Pays-Bas,2,0,Ukraine
+Mo,Ecosse,0,1,Rép. Tchèque
+Mo,Pologne,3,1,Slovaquie
+Mo,Espagne,2,0,Suède
+Mo,Hongrie,0,3,Portugal
+Mo,France,1,0,Allemagne
+Mo,Finlande,0,2,Russie
+Mo,Turquie,3,1,Pays de Galles
+Mo,Italie,4,0,Suisse
+Mo,Ukraine,1,0,Macédoine
+Mo,Danemark,1,2,Belgique
+Mo,Pays-Bas,3,1,Autriche
+Mo,Suède,1,1,Slovaquie
+Mo,Croatie,3,1,Rép. Tchèque
+Mo,Angleterre,4,0,Ecosse
+Mo,Hongrie,1,4,France
+Mo,Portugal,2,3,Allemagne
+Mo,Espagne,2,1,Pologne
+Mo,Suisse,1,3,Turquie
+Mo,Italie,4,1,Pays de Galles
+Mo,Ukraine,1,1,Autriche
+Mo,Macédoine,0,5,Pays-Bas
+Mo,Finlande,0,2,Belgique
+Mo,Russie,2,2,Danemark
+Mo,Croatie,3,1,Ecosse
+Mo,Rép. Tchèque,0,3,Angleterre
+Mo,Suède,1,2,Pologne
+Mo,Slovaquie,0,2,Espagne
+Mo,Portugal,1,2,France
+Mo,Allemagne,4,0,Hongrie
+My Hanh,Turquie,1,2,Italie
+My Hanh,Pays de Galles,0,1,Suisse
+My Hanh,Danemark,1,0,Finlande
+My Hanh,Belgique,2,0,Russie
+My Hanh,Angleterre,2,1,Croatie
+My Hanh,Autriche,1,0,Macédoine
+My Hanh,Pays-Bas,2,0,Ukraine
+My Hanh,Ecosse,0,1,Rép. Tchèque
+My Hanh,Pologne,1,0,Slovaquie
+My Hanh,Espagne,2,0,Suède
+My Hanh,Hongrie,0,2,Portugal
+My Hanh,France,2,2,Allemagne
+My Hanh,Finlande,0,1,Russie
+My Hanh,Turquie,1,1,Pays de Galles
+My Hanh,Italie,2,1,Suisse
+My Hanh,Ukraine,0,0,Macédoine
+My Hanh,Danemark,0,2,Belgique
+My Hanh,Pays-Bas,2,1,Autriche
+My Hanh,Suède,1,0,Slovaquie
+My Hanh,Croatie,1,0,Rép. Tchèque
+My Hanh,Angleterre,3,0,Ecosse
+My Hanh,Hongrie,0,3,France
+My Hanh,Portugal,2,1,Allemagne
+My Hanh,Espagne,2,0,Pologne
+My Hanh,Suisse,1,0,Turquie
+My Hanh,Italie,2,0,Pays de Galles
+My Hanh,Ukraine,1,1,Autriche
+My Hanh,Macédoine,0,3,Pays-Bas
+My Hanh,Finlande,0,3,Belgique
+My Hanh,Russie,0,1,Danemark
+My Hanh,Croatie,2,0,Ecosse
+My Hanh,Rép. Tchèque,0,2,Angleterre
+My Hanh,Suède,2,1,Pologne
+My Hanh,Slovaquie,0,2,Espagne
+My Hanh,Portugal,1,2,France
+My Hanh,Allemagne,2,1,Hongrie
+Nico Barca,Turquie,1,2,Italie
+Nico Barca,Pays de Galles,1,1,Suisse
+Nico Barca,Danemark,2,0,Finlande
+Nico Barca,Belgique,2,1,Russie
+Nico Barca,Angleterre,1,0,Croatie
+Nico Barca,Autriche,1,0,Macédoine
+Nico Barca,Pays-Bas,3,1,Ukraine
+Nico Barca,Ecosse,0,0,Rép. Tchèque
+Nico Barca,Pologne,3,0,Slovaquie
+Nico Barca,Espagne,1,0,Suède
+Nico Barca,Hongrie,2,3,Portugal
+Nico Barca,France,1,1,Allemagne
+Nico Barca,Finlande,0,2,Russie
+Nico Barca,Turquie,1,2,Pays de Galles
+Nico Barca,Italie,2,2,Suisse
+Nico Barca,Ukraine,2,1,Macédoine
+Nico Barca,Danemark,1,3,Belgique
+Nico Barca,Pays-Bas,2,0,Autriche
+Nico Barca,Suède,1,0,Slovaquie
+Nico Barca,Croatie,2,0,Rép. Tchèque
+Nico Barca,Angleterre,3,1,Ecosse
+Nico Barca,Hongrie,0,2,France
+Nico Barca,Portugal,2,2,Allemagne
+Nico Barca,Espagne,1,2,Pologne
+Nico Barca,Suisse,1,0,Turquie
+Nico Barca,Italie,1,0,Pays de Galles
+Nico Barca,Ukraine,1,0,Autriche
+Nico Barca,Macédoine,0,3,Pays-Bas
+Nico Barca,Finlande,0,3,Belgique
+Nico Barca,Russie,1,2,Danemark
+Nico Barca,Croatie,1,1,Ecosse
+Nico Barca,Rép. Tchèque,1,2,Angleterre
+Nico Barca,Suède,0,1,Pologne
+Nico Barca,Slovaquie,0,2,Espagne
+Nico Barca,Portugal,1,1,France
+Nico Barca,Allemagne,3,0,Hongrie
+Nicolas Annick,Turquie,1,2,Italie
+Nicolas Annick,Pays de Galles,1,1,Suisse
+Nicolas Annick,Danemark,1,0,Finlande
+Nicolas Annick,Belgique,3,1,Russie
+Nicolas Annick,Angleterre,2,1,Croatie
+Nicolas Annick,Autriche,3,2,Macédoine
+Nicolas Annick,Pays-Bas,3,1,Ukraine
+Nicolas Annick,Ecosse,2,2,Rép. Tchèque
+Nicolas Annick,Pologne,1,0,Slovaquie
+Nicolas Annick,Espagne,3,0,Suède
+Nicolas Annick,Hongrie,1,2,Portugal
+Nicolas Annick,France,1,2,Allemagne
+Nicolas Annick,Finlande,0,2,Russie
+Nicolas Annick,Turquie,1,0,Pays de Galles
+Nicolas Annick,Italie,2,1,Suisse
+Nicolas Annick,Ukraine,1,0,Macédoine
+Nicolas Annick,Danemark,1,2,Belgique
+Nicolas Annick,Pays-Bas,3,0,Autriche
+Nicolas Annick,Suède,1,1,Slovaquie
+Nicolas Annick,Croatie,2,1,Rép. Tchèque
+Nicolas Annick,Angleterre,3,1,Ecosse
+Nicolas Annick,Hongrie,0,2,France
+Nicolas Annick,Portugal,1,1,Allemagne
+Nicolas Annick,Espagne,1,0,Pologne
+Nicolas Annick,Suisse,2,2,Turquie
+Nicolas Annick,Italie,2,1,Pays de Galles
+Nicolas Annick,Ukraine,1,2,Autriche
+Nicolas Annick,Macédoine,0,3,Pays-Bas
+Nicolas Annick,Finlande,0,2,Belgique
+Nicolas Annick,Russie,1,2,Danemark
+Nicolas Annick,Croatie,1,1,Ecosse
+Nicolas Annick,Rép. Tchèque,1,3,Angleterre
+Nicolas Annick,Suède,2,1,Pologne
+Nicolas Annick,Slovaquie,0,2,Espagne
+Nicolas Annick,Portugal,1,1,France
+Nicolas Annick,Allemagne,4,1,Hongrie
+Nicolas Tribout,Turquie,1,3,Italie
+Nicolas Tribout,Pays de Galles,0,2,Suisse
+Nicolas Tribout,Danemark,2,0,Finlande
+Nicolas Tribout,Belgique,2,1,Russie
+Nicolas Tribout,Angleterre,1,0,Croatie
+Nicolas Tribout,Autriche,2,0,Macédoine
+Nicolas Tribout,Pays-Bas,2,1,Ukraine
+Nicolas Tribout,Ecosse,1,1,Rép. Tchèque
+Nicolas Tribout,Pologne,3,0,Slovaquie
+Nicolas Tribout,Espagne,2,1,Suède
+Nicolas Tribout,Hongrie,0,2,Portugal
+Nicolas Tribout,France,3,2,Allemagne
+Nicolas Tribout,Finlande,1,3,Russie
+Nicolas Tribout,Turquie,2,2,Pays de Galles
+Nicolas Tribout,Italie,1,1,Suisse
+Nicolas Tribout,Ukraine,2,1,Macédoine
+Nicolas Tribout,Danemark,0,3,Belgique
+Nicolas Tribout,Pays-Bas,2,1,Autriche
+Nicolas Tribout,Suède,2,0,Slovaquie
+Nicolas Tribout,Croatie,2,0,Rép. Tchèque
+Nicolas Tribout,Angleterre,2,0,Ecosse
+Nicolas Tribout,Hongrie,0,3,France
+Nicolas Tribout,Portugal,1,2,Allemagne
+Nicolas Tribout,Espagne,2,1,Pologne
+Nicolas Tribout,Suisse,2,0,Turquie
+Nicolas Tribout,Italie,3,0,Pays de Galles
+Nicolas Tribout,Ukraine,0,1,Autriche
+Nicolas Tribout,Macédoine,0,2,Pays-Bas
+Nicolas Tribout,Finlande,1,3,Belgique
+Nicolas Tribout,Russie,2,0,Danemark
+Nicolas Tribout,Croatie,1,0,Ecosse
+Nicolas Tribout,Rép. Tchèque,0,2,Angleterre
+Nicolas Tribout,Suède,0,1,Pologne
+Nicolas Tribout,Slovaquie,0,2,Espagne
+Nicolas Tribout,Portugal,2,3,France
+Nicolas Tribout,Allemagne,2,0,Hongrie
+Ol,Turquie,0,2,Italie
+Ol,Pays de Galles,1,1,Suisse
+Ol,Danemark,2,1,Finlande
+Ol,Belgique,2,1,Russie
+Ol,Angleterre,3,2,Croatie
+Ol,Autriche,2,0,Macédoine
+Ol,Pays-Bas,3,1,Ukraine
+Ol,Ecosse,2,1,Rép. Tchèque
+Ol,Pologne,1,1,Slovaquie
+Ol,Espagne,2,0,Suède
+Ol,Hongrie,1,3,Portugal
+Ol,France,1,1,Allemagne
+Ol,Finlande,0,1,Russie
+Ol,Turquie,0,2,Pays de Galles
+Ol,Italie,2,0,Suisse
+Ol,Ukraine,1,0,Macédoine
+Ol,Danemark,0,2,Belgique
+Ol,Pays-Bas,2,1,Autriche
+Ol,Suède,1,1,Slovaquie
+Ol,Croatie,2,1,Rép. Tchèque
+Ol,Angleterre,2,1,Ecosse
+Ol,Hongrie,0,2,France
+Ol,Portugal,1,2,Allemagne
+Ol,Espagne,1,0,Pologne
+Ol,Suisse,1,0,Turquie
+Ol,Italie,2,1,Pays de Galles
+Ol,Ukraine,1,1,Autriche
+Ol,Macédoine,0,2,Pays-Bas
+Ol,Finlande,0,2,Belgique
+Ol,Russie,2,1,Danemark
+Ol,Croatie,1,2,Ecosse
+Ol,Rép. Tchèque,0,2,Angleterre
+Ol,Suède,2,1,Pologne
+Ol,Slovaquie,0,2,Espagne
+Ol,Portugal,1,2,France
+Ol,Allemagne,2,0,Hongrie
+Olivier D.,Turquie,0,2,Italie
+Olivier D.,Pays de Galles,1,0,Suisse
+Olivier D.,Danemark,0,0,Finlande
+Olivier D.,Belgique,1,1,Russie
+Olivier D.,Angleterre,2,1,Croatie
+Olivier D.,Autriche,2,0,Macédoine
+Olivier D.,Pays-Bas,1,1,Ukraine
+Olivier D.,Ecosse,1,2,Rép. Tchèque
+Olivier D.,Pologne,1,0,Slovaquie
+Olivier D.,Espagne,3,0,Suède
+Olivier D.,Hongrie,0,1,Portugal
+Olivier D.,France,0,0,Allemagne
+Olivier D.,Finlande,1,2,Russie
+Olivier D.,Turquie,1,2,Pays de Galles
+Olivier D.,Italie,1,0,Suisse
+Olivier D.,Ukraine,3,0,Macédoine
+Olivier D.,Danemark,0,2,Belgique
+Olivier D.,Pays-Bas,2,0,Autriche
+Olivier D.,Suède,1,1,Slovaquie
+Olivier D.,Croatie,1,1,Rép. Tchèque
+Olivier D.,Angleterre,2,0,Ecosse
+Olivier D.,Hongrie,0,3,France
+Olivier D.,Portugal,1,1,Allemagne
+Olivier D.,Espagne,2,0,Pologne
+Olivier D.,Suisse,1,1,Turquie
+Olivier D.,Italie,2,0,Pays de Galles
+Olivier D.,Ukraine,1,1,Autriche
+Olivier D.,Macédoine,0,4,Pays-Bas
+Olivier D.,Finlande,1,2,Belgique
+Olivier D.,Russie,2,2,Danemark
+Olivier D.,Croatie,2,1,Ecosse
+Olivier D.,Rép. Tchèque,2,2,Angleterre
+Olivier D.,Suède,0,1,Pologne
+Olivier D.,Slovaquie,0,2,Espagne
+Olivier D.,Portugal,1,2,France
+Olivier D.,Allemagne,3,0,Hongrie
+Papounet,Turquie,1,2,Italie
+Papounet,Pays de Galles,1,1,Suisse
+Papounet,Danemark,1,1,Finlande
+Papounet,Belgique,2,0,Russie
+Papounet,Angleterre,2,1,Croatie
+Papounet,Autriche,1,0,Macédoine
+Papounet,Pays-Bas,2,0,Ukraine
+Papounet,Ecosse,0,2,Rép. Tchèque
+Papounet,Pologne,1,1,Slovaquie
+Papounet,Espagne,2,1,Suède
+Papounet,Hongrie,0,2,Portugal
+Papounet,France,1,2,Allemagne
+Papounet,Finlande,1,2,Russie
+Papounet,Turquie,2,1,Pays de Galles
+Papounet,Italie,2,1,Suisse
+Papounet,Ukraine,3,1,Macédoine
+Papounet,Danemark,0,2,Belgique
+Papounet,Pays-Bas,2,1,Autriche
+Papounet,Suède,2,0,Slovaquie
+Papounet,Croatie,1,1,Rép. Tchèque
+Papounet,Angleterre,2,0,Ecosse
+Papounet,Hongrie,1,2,France
+Papounet,Portugal,1,1,Allemagne
+Papounet,Espagne,3,1,Pologne
+Papounet,Suisse,2,2,Turquie
+Papounet,Italie,2,0,Pays de Galles
+Papounet,Ukraine,1,1,Autriche
+Papounet,Macédoine,0,2,Pays-Bas
+Papounet,Finlande,1,3,Belgique
+Papounet,Russie,2,1,Danemark
+Papounet,Croatie,2,0,Ecosse
+Papounet,Rép. Tchèque,0,2,Angleterre
+Papounet,Suède,2,1,Pologne
+Papounet,Slovaquie,0,3,Espagne
+Papounet,Portugal,2,2,France
+Papounet,Allemagne,3,0,Hongrie
+Quentin,Turquie,1,2,Italie
+Quentin,Pays de Galles,1,1,Suisse
+Quentin,Danemark,2,1,Finlande
+Quentin,Belgique,1,0,Russie
+Quentin,Angleterre,1,0,Croatie
+Quentin,Autriche,1,0,Macédoine
+Quentin,Pays-Bas,2,1,Ukraine
+Quentin,Ecosse,1,1,Rép. Tchèque
+Quentin,Pologne,0,0,Slovaquie
+Quentin,Espagne,3,1,Suède
+Quentin,Hongrie,0,1,Portugal
+Quentin,France,2,1,Allemagne
+Quentin,Finlande,0,0,Russie
+Quentin,Turquie,1,2,Pays de Galles
+Quentin,Italie,3,1,Suisse
+Quentin,Ukraine,1,1,Macédoine
+Quentin,Danemark,0,2,Belgique
+Quentin,Pays-Bas,1,0,Autriche
+Quentin,Suède,0,1,Slovaquie
+Quentin,Croatie,0,1,Rép. Tchèque
+Quentin,Angleterre,0,0,Ecosse
+Quentin,Hongrie,0,3,France
+Quentin,Portugal,1,2,Allemagne
+Quentin,Espagne,1,1,Pologne
+Quentin,Suisse,0,0,Turquie
+Quentin,Italie,1,0,Pays de Galles
+Quentin,Ukraine,0,0,Autriche
+Quentin,Macédoine,0,2,Pays-Bas
+Quentin,Finlande,1,2,Belgique
+Quentin,Russie,0,0,Danemark
+Quentin,Croatie,1,1,Ecosse
+Quentin,Rép. Tchèque,1,2,Angleterre
+Quentin,Suède,0,0,Pologne
+Quentin,Slovaquie,0,2,Espagne
+Quentin,Portugal,1,2,France
+Quentin,Allemagne,2,1,Hongrie
+Raph,Turquie,0,2,Italie
+Raph,Pays de Galles,2,1,Suisse
+Raph,Danemark,1,0,Finlande
+Raph,Belgique,2,1,Russie
+Raph,Angleterre,2,0,Croatie
+Raph,Autriche,2,0,Macédoine
+Raph,Pays-Bas,2,0,Ukraine
+Raph,Ecosse,1,1,Rép. Tchèque
+Raph,Pologne,0,0,Slovaquie
+Raph,Espagne,2,0,Suède
+Raph,Hongrie,0,1,Portugal
+Raph,France,2,0,Allemagne
+Raph,Finlande,0,1,Russie
+Raph,Turquie,1,1,Pays de Galles
+Raph,Italie,2,1,Suisse
+Raph,Ukraine,2,0,Macédoine
+Raph,Danemark,0,2,Belgique
+Raph,Pays-Bas,2,0,Autriche
+Raph,Suède,1,0,Slovaquie
+Raph,Croatie,2,2,Rép. Tchèque
+Raph,Angleterre,1,0,Ecosse
+Raph,Hongrie,0,3,France
+Raph,Portugal,0,1,Allemagne
+Raph,Espagne,2,0,Pologne
+Raph,Suisse,2,0,Turquie
+Raph,Italie,2,0,Pays de Galles
+Raph,Ukraine,1,1,Autriche
+Raph,Macédoine,0,3,Pays-Bas
+Raph,Finlande,0,2,Belgique
+Raph,Russie,1,1,Danemark
+Raph,Croatie,1,1,Ecosse
+Raph,Rép. Tchèque,0,1,Angleterre
+Raph,Suède,1,0,Pologne
+Raph,Slovaquie,0,2,Espagne
+Raph,Portugal,0,2,France
+Raph,Allemagne,2,0,Hongrie
+Santi,Turquie,0,1,Italie
+Santi,Pays de Galles,1,1,Suisse
+Santi,Danemark,1,0,Finlande
+Santi,Belgique,2,1,Russie
+Santi,Angleterre,1,0,Croatie
+Santi,Autriche,1,0,Macédoine
+Santi,Pays-Bas,1,0,Ukraine
+Santi,Ecosse,0,0,Rép. Tchèque
+Santi,Pologne,1,0,Slovaquie
+Santi,Espagne,2,0,Suède
+Santi,Hongrie,0,2,Portugal
+Santi,France,1,1,Allemagne
+Santi,Finlande,0,1,Russie
+Santi,Turquie,1,0,Pays de Galles
+Santi,Italie,2,1,Suisse
+Santi,Ukraine,1,0,Macédoine
+Santi,Danemark,0,1,Belgique
+Santi,Pays-Bas,1,0,Autriche
+Santi,Suède,1,0,Slovaquie
+Santi,Croatie,1,0,Rép. Tchèque
+Santi,Angleterre,2,0,Ecosse
+Santi,Hongrie,0,1,France
+Santi,Portugal,0,1,Allemagne
+Santi,Espagne,1,0,Pologne
+Santi,Suisse,1,0,Turquie
+Santi,Italie,2,0,Pays de Galles
+Santi,Ukraine,0,0,Autriche
+Santi,Macédoine,0,2,Pays-Bas
+Santi,Finlande,0,2,Belgique
+Santi,Russie,0,1,Danemark
+Santi,Croatie,1,0,Ecosse
+Santi,Rép. Tchèque,0,1,Angleterre
+Santi,Suède,0,0,Pologne
+Santi,Slovaquie,0,2,Espagne
+Santi,Portugal,0,1,France
+Santi,Allemagne,2,0,Hongrie
+Sarah,Turquie,0,1,Italie
+Sarah,Pays de Galles,1,1,Suisse
+Sarah,Danemark,0,0,Finlande
+Sarah,Belgique,2,0,Russie
+Sarah,Angleterre,1,0,Croatie
+Sarah,Autriche,2,1,Macédoine
+Sarah,Pays-Bas,1,0,Ukraine
+Sarah,Ecosse,0,0,Rép. Tchèque
+Sarah,Pologne,1,0,Slovaquie
+Sarah,Espagne,2,0,Suède
+Sarah,Hongrie,1,2,Portugal
+Sarah,France,2,1,Allemagne
+Sarah,Finlande,0,1,Russie
+Sarah,Turquie,1,1,Pays de Galles
+Sarah,Italie,1,0,Suisse
+Sarah,Ukraine,0,0,Macédoine
+Sarah,Danemark,0,3,Belgique
+Sarah,Pays-Bas,2,1,Autriche
+Sarah,Suède,2,1,Slovaquie
+Sarah,Croatie,2,1,Rép. Tchèque
+Sarah,Angleterre,1,1,Ecosse
+Sarah,Hongrie,0,2,France
+Sarah,Portugal,1,2,Allemagne
+Sarah,Espagne,1,0,Pologne
+Sarah,Suisse,0,0,Turquie
+Sarah,Italie,2,1,Pays de Galles
+Sarah,Ukraine,1,1,Autriche
+Sarah,Macédoine,1,1,Pays-Bas
+Sarah,Finlande,0,3,Belgique
+Sarah,Russie,2,0,Danemark
+Sarah,Croatie,1,0,Ecosse
+Sarah,Rép. Tchèque,0,1,Angleterre
+Sarah,Suède,1,0,Pologne
+Sarah,Slovaquie,0,3,Espagne
+Sarah,Portugal,1,2,France
+Sarah,Allemagne,2,0,Hongrie
+Sophie,Turquie,1,2,Italie
+Sophie,Pays de Galles,0,1,Suisse
+Sophie,Danemark,2,0,Finlande
+Sophie,Belgique,3,1,Russie
+Sophie,Angleterre,1,1,Croatie
+Sophie,Autriche,2,1,Macédoine
+Sophie,Pays-Bas,3,0,Ukraine
+Sophie,Ecosse,1,2,Rép. Tchèque
+Sophie,Pologne,0,1,Slovaquie
+Sophie,Espagne,3,2,Suède
+Sophie,Hongrie,1,2,Portugal
+Sophie,France,2,2,Allemagne
+Sophie,Finlande,2,0,Russie
+Sophie,Turquie,1,0,Pays de Galles
+Sophie,Italie,2,1,Suisse
+Sophie,Ukraine,2,0,Macédoine
+Sophie,Danemark,2,3,Belgique
+Sophie,Pays-Bas,2,0,Autriche
+Sophie,Suède,2,1,Slovaquie
+Sophie,Croatie,3,1,Rép. Tchèque
+Sophie,Angleterre,2,0,Ecosse
+Sophie,Hongrie,1,3,France
+Sophie,Portugal,3,2,Allemagne
+Sophie,Espagne,3,0,Pologne
+Sophie,Suisse,1,1,Turquie
+Sophie,Italie,2,0,Pays de Galles
+Sophie,Ukraine,1,3,Autriche
+Sophie,Macédoine,0,3,Pays-Bas
+Sophie,Finlande,2,3,Belgique
+Sophie,Russie,0,2,Danemark
+Sophie,Croatie,1,2,Ecosse
+Sophie,Rép. Tchèque,1,3,Angleterre
+Sophie,Suède,1,1,Pologne
+Sophie,Slovaquie,2,4,Espagne
+Sophie,Portugal,3,2,France
+Sophie,Allemagne,3,1,Hongrie
+Steph,Turquie,1,2,Italie
+Steph,Pays de Galles,0,2,Suisse
+Steph,Danemark,2,0,Finlande
+Steph,Belgique,2,1,Russie
+Steph,Angleterre,1,1,Croatie
+Steph,Autriche,1,2,Macédoine
+Steph,Pays-Bas,3,0,Ukraine
+Steph,Ecosse,2,2,Rép. Tchèque
+Steph,Pologne,1,0,Slovaquie
+Steph,Espagne,1,3,Suède
+Steph,Hongrie,0,2,Portugal
+Steph,France,2,2,Allemagne
+Steph,Finlande,0,1,Russie
+Steph,Turquie,2,1,Pays de Galles
+Steph,Italie,3,0,Suisse
+Steph,Ukraine,1,1,Macédoine
+Steph,Danemark,1,4,Belgique
+Steph,Pays-Bas,3,0,Autriche
+Steph,Suède,4,0,Slovaquie
+Steph,Croatie,2,1,Rép. Tchèque
+Steph,Angleterre,3,0,Ecosse
+Steph,Hongrie,0,3,France
+Steph,Portugal,1,2,Allemagne
+Steph,Espagne,3,1,Pologne
+Steph,Suisse,2,1,Turquie
+Steph,Italie,2,1,Pays de Galles
+Steph,Ukraine,1,1,Autriche
+Steph,Macédoine,1,1,Pays-Bas
+Steph,Finlande,1,3,Belgique
+Steph,Russie,1,3,Danemark
+Steph,Croatie,2,1,Ecosse
+Steph,Rép. Tchèque,1,3,Angleterre
+Steph,Suède,2,0,Pologne
+Steph,Slovaquie,0,1,Espagne
+Steph,Portugal,0,1,France
+Steph,Allemagne,3,0,Hongrie
+Thibaut,Turquie,0,1,Italie
+Thibaut,Pays de Galles,1,1,Suisse
+Thibaut,Danemark,2,0,Finlande
+Thibaut,Belgique,2,0,Russie
+Thibaut,Angleterre,3,1,Croatie
+Thibaut,Autriche,4,0,Macédoine
+Thibaut,Pays-Bas,2,1,Ukraine
+Thibaut,Ecosse,0,2,Rép. Tchèque
+Thibaut,Pologne,2,1,Slovaquie
+Thibaut,Espagne,3,1,Suède
+Thibaut,Hongrie,0,1,Portugal
+Thibaut,France,0,0,Allemagne
+Thibaut,Finlande,0,1,Russie
+Thibaut,Turquie,1,1,Pays de Galles
+Thibaut,Italie,2,1,Suisse
+Thibaut,Ukraine,3,1,Macédoine
+Thibaut,Danemark,1,3,Belgique
+Thibaut,Pays-Bas,2,0,Autriche
+Thibaut,Suède,2,2,Slovaquie
+Thibaut,Croatie,1,1,Rép. Tchèque
+Thibaut,Angleterre,2,0,Ecosse
+Thibaut,Hongrie,0,3,France
+Thibaut,Portugal,1,1,Allemagne
+Thibaut,Espagne,1,0,Pologne
+Thibaut,Suisse,0,0,Turquie
+Thibaut,Italie,2,0,Pays de Galles
+Thibaut,Ukraine,2,2,Autriche
+Thibaut,Macédoine,0,3,Pays-Bas
+Thibaut,Finlande,0,4,Belgique
+Thibaut,Russie,1,2,Danemark
+Thibaut,Croatie,3,1,Ecosse
+Thibaut,Rép. Tchèque,0,2,Angleterre
+Thibaut,Suède,0,2,Pologne
+Thibaut,Slovaquie,1,3,Espagne
+Thibaut,Portugal,0,1,France
+Thibaut,Allemagne,3,0,Hongrie
+Timaël,Turquie,1,2,Italie
+Timaël,Pays de Galles,2,2,Suisse
+Timaël,Danemark,2,0,Finlande
+Timaël,Belgique,3,1,Russie
+Timaël,Angleterre,2,1,Croatie
+Timaël,Autriche,1,0,Macédoine
+Timaël,Pays-Bas,2,0,Ukraine
+Timaël,Ecosse,1,1,Rép. Tchèque
+Timaël,Pologne,1,0,Slovaquie
+Timaël,Espagne,2,0,Suède
+Timaël,Hongrie,0,3,Portugal
+Timaël,France,2,2,Allemagne
+Timaël,Finlande,0,0,Russie
+Timaël,Turquie,0,2,Pays de Galles
+Timaël,Italie,1,2,Suisse
+Timaël,Ukraine,1,0,Macédoine
+Timaël,Danemark,1,3,Belgique
+Timaël,Pays-Bas,2,0,Autriche
+Timaël,Suède,1,0,Slovaquie
+Timaël,Croatie,2,0,Rép. Tchèque
+Timaël,Angleterre,3,0,Ecosse
+Timaël,Hongrie,0,4,France
+Timaël,Portugal,2,3,Allemagne
+Timaël,Espagne,2,1,Pologne
+Timaël,Suisse,2,0,Turquie
+Timaël,Italie,1,1,Pays de Galles
+Timaël,Ukraine,1,1,Autriche
+Timaël,Macédoine,0,2,Pays-Bas
+Timaël,Finlande,1,3,Belgique
+Timaël,Russie,1,2,Danemark
+Timaël,Croatie,2,0,Ecosse
+Timaël,Rép. Tchèque,0,4,Angleterre
+Timaël,Suède,1,2,Pologne
+Timaël,Slovaquie,0,1,Espagne
+Timaël,Portugal,2,2,France
+Timaël,Allemagne,3,0,Hongrie
+Tristal,Turquie,1,2,Italie
+Tristal,Pays de Galles,1,0,Suisse
+Tristal,Danemark,0,1,Finlande
+Tristal,Belgique,2,0,Russie
+Tristal,Angleterre,2,1,Croatie
+Tristal,Autriche,2,0,Macédoine
+Tristal,Pays-Bas,2,0,Ukraine
+Tristal,Ecosse,2,1,Rép. Tchèque
+Tristal,Pologne,0,1,Slovaquie
+Tristal,Espagne,1,0,Suède
+Tristal,Hongrie,1,3,Portugal
+Tristal,France,2,0,Allemagne
+Tristal,Finlande,0,1,Russie
+Tristal,Turquie,1,2,Pays de Galles
+Tristal,Italie,0,1,Suisse
+Tristal,Ukraine,1,0,Macédoine
+Tristal,Danemark,1,3,Belgique
+Tristal,Pays-Bas,2,1,Autriche
+Tristal,Suède,1,0,Slovaquie
+Tristal,Croatie,2,0,Rép. Tchèque
+Tristal,Angleterre,3,1,Ecosse
+Tristal,Hongrie,0,3,France
+Tristal,Portugal,2,0,Allemagne
+Tristal,Espagne,1,0,Pologne
+Tristal,Suisse,2,0,Turquie
+Tristal,Italie,0,1,Pays de Galles
+Tristal,Ukraine,0,1,Autriche
+Tristal,Macédoine,0,2,Pays-Bas
+Tristal,Finlande,1,4,Belgique
+Tristal,Russie,1,0,Danemark
+Tristal,Croatie,3,1,Ecosse
+Tristal,Rép. Tchèque,2,5,Angleterre
+Tristal,Suède,1,0,Pologne
+Tristal,Slovaquie,0,3,Espagne
+Tristal,Portugal,0,0,France
+Tristal,Allemagne,2,0,Hongrie
+Valentin,Turquie,0,2,Italie
+Valentin,Pays de Galles,0,1,Suisse
+Valentin,Danemark,2,0,Finlande
+Valentin,Belgique,3,0,Russie
+Valentin,Angleterre,2,1,Croatie
+Valentin,Autriche,3,0,Macédoine
+Valentin,Pays-Bas,2,1,Ukraine
+Valentin,Ecosse,1,2,Rép. Tchèque
+Valentin,Pologne,0,1,Slovaquie
+Valentin,Espagne,3,1,Suède
+Valentin,Hongrie,0,2,Portugal
+Valentin,France,0,0,Allemagne
+Valentin,Finlande,0,1,Russie
+Valentin,Turquie,1,1,Pays de Galles
+Valentin,Italie,2,1,Suisse
+Valentin,Ukraine,1,0,Macédoine
+Valentin,Danemark,1,3,Belgique
+Valentin,Pays-Bas,1,0,Autriche
+Valentin,Suède,1,1,Slovaquie
+Valentin,Croatie,1,1,Rép. Tchèque
+Valentin,Angleterre,2,0,Ecosse
+Valentin,Hongrie,0,3,France
+Valentin,Portugal,2,1,Allemagne
+Valentin,Espagne,2,0,Pologne
+Valentin,Suisse,0,0,Turquie
+Valentin,Italie,2,0,Pays de Galles
+Valentin,Ukraine,2,2,Autriche
+Valentin,Macédoine,0,3,Pays-Bas
+Valentin,Finlande,0,4,Belgique
+Valentin,Russie,1,2,Danemark
+Valentin,Croatie,2,1,Ecosse
+Valentin,Rép. Tchèque,0,2,Angleterre
+Valentin,Suède,0,1,Pologne
+Valentin,Slovaquie,0,2,Espagne
+Valentin,Portugal,1,1,France
+Valentin,Allemagne,2,0,Hongrie
+Thénaïs,Turquie,2,3,Italie
+Thénaïs,Pays de Galles,1,1,Suisse
+Thénaïs,Danemark,2,0,Finlande
+Thénaïs,Belgique,2,1,Russie
+Thénaïs,Angleterre,2,1,Croatie
+Thénaïs,Autriche,3,0,Macédoine
+Thénaïs,Pays-Bas,3,1,Ukraine
+Thénaïs,Ecosse,1,1,Rép. Tchèque
+Thénaïs,Pologne,0,0,Slovaquie
+Thénaïs,Espagne,2,1,Suède
+Thénaïs,Hongrie,1,3,Portugal
+Thénaïs,France,2,1,Allemagne
+Thénaïs,Finlande,1,2,Russie
+Thénaïs,Turquie,2,2,Pays de Galles
+Thénaïs,Italie,3,1,Suisse
+Thénaïs,Ukraine,1,0,Macédoine
+Thénaïs,Danemark,1,2,Belgique
+Thénaïs,Pays-Bas,3,1,Autriche
+Thénaïs,Suède,0,0,Slovaquie
+Thénaïs,Croatie,3,1,Rép. Tchèque
+Thénaïs,Angleterre,2,1,Ecosse
+Thénaïs,Hongrie,1,3,France
+Thénaïs,Portugal,3,3,Allemagne
+Thénaïs,Espagne,2,0,Pologne
+Thénaïs,Suisse,1,0,Turquie
+Thénaïs,Italie,2,1,Pays de Galles
+Thénaïs,Ukraine,1,2,Autriche
+Thénaïs,Macédoine,0,3,Pays-Bas
+Thénaïs,Finlande,1,3,Belgique
+Thénaïs,Russie,2,1,Danemark
+Thénaïs,Croatie,3,2,Ecosse
+Thénaïs,Rép. Tchèque,0,3,Angleterre
+Thénaïs,Suède,1,1,Pologne
+Thénaïs,Slovaquie,2,2,Espagne
+Thénaïs,Portugal,2,2,France
+Thénaïs,Allemagne,3,0,Hongrie

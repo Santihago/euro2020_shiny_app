@@ -1,0 +1,37 @@
+team1,score1,score2,team2
+Turquie,0,3,Italie
+Pays de Galles,1,1,Suisse
+Danemark,0,1,Finlande
+Belgique,3,0,Russie
+Angleterre,1,0,Croatie
+Autriche,3,1,Macédoine
+Pays-Bas,3,2,Ukraine
+Ecosse,0,2,Rép. Tchèque
+Pologne,1,2,Slovaquie
+Espagne,0,0,Suède
+Hongrie,0,3,Portugal
+France,1,0,Allemagne
+Finlande,0,1,Russie
+Turquie,0,2,Pays de Galles
+Italie,3,0,Suisse
+Ukraine,NA,NA,Macédoine
+Danemark,NA,NA,Belgique
+Pays-Bas,NA,NA,Autriche
+Suède,NA,NA,Slovaquie
+Croatie,NA,NA,Rép. Tchèque
+Angleterre,NA,NA,Ecosse
+Hongrie,NA,NA,France
+Portugal,NA,NA,Allemagne
+Espagne,NA,NA,Pologne
+Suisse,NA,NA,Turquie
+Italie,NA,NA,Pays de Galles
+Ukraine,NA,NA,Autriche
+Macédoine,NA,NA,Pays-Bas
+Finlande,NA,NA,Belgique
+Russie,NA,NA,Danemark
+Croatie,NA,NA,Ecosse
+Rép. Tchèque,NA,NA,Angleterre
+Suède,NA,NA,Pologne
+Slovaquie,NA,NA,Espagne
+Portugal,NA,NA,France
+Allemagne,NA,NA,Hongrie
